@@ -1,7 +1,7 @@
 ---
 title: "git 블로그 설정"
 date: 2017-10-20 23:09:28 -0400
-categories: fastlane dev study
+categories: jekyll update
 ---
 1. gitHub가입
 [git-join]'https://github.com/'
