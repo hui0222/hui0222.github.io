@@ -4,7 +4,7 @@ date: 2020-07-12 23:09:28 -0400
 categories: fastlane dev study
 ---
 1. gitHub가입
-[git-join] -> 'https://github.com/'
+- [git-join] -> 'https://github.com/'
 
 2. git Repositories 생성 'Repositories > New'
 - Repository name 입력 'hui0222.github.io'
