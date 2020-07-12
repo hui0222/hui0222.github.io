@@ -1,10 +1,10 @@
 ---
 title: "git 블로그 설정"
-date: 2017-10-20 23:09:28 -0400
-categories: jekyll update
+date: 2020-07-12 23:09:28 -0400
+categories: fastlane dev study
 ---
 1. gitHub가입
-[git-join]'https://github.com/'
+[git-join] -> 'https://github.com/'
 
 2. git Repositories 생성 'Repositories > New'
 - Repository name 입력 'hui0222.github.io'
@@ -49,10 +49,10 @@ title: "제목"
 date: 2020-07-12 23:26:28 -0400 #날짜
 categories: fastlane dev study #카테고리
 ---
-내용 [git-join]
-[git-join] : https://github.com/
+내용 [git-join][git-join]
+[git-join] : https://github.com
 [git-theme]: https://github.com/topics/jekyll-theme
 ```
 
-[git-join] : https://github.com/
+[git-join] : https://github.com
 [git-theme]: https://github.com/topics/jekyll-theme
